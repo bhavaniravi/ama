@@ -21,7 +21,7 @@ I get a lot of questions by email, Twitter DMs and Quora. This way anyone can re
 
 ### Guidelines
 
-- - Be civil, professional and polite.
+- Be civil, professional and polite.
 - Ensure your question hasn't already been answered.
 - Use a succinct title and description.
 - Bugs & feature requests should be opened on the relevant issue tracker.

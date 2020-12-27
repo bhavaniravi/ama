@@ -1,6 +1,6 @@
 # Ask me anything!
 
-I am [Bhavani Ravi](https://bhavaniravi.com/) Software Engineer by Profession Blogger, Speaker and Community Lead by Passion.
+I am <a href="https://bhavaniravi.com/" target="_blank">Bhavani Ravi</a> Software Engineer by Profession. Blogger, Speaker and Community Lead by Passion.
 
 I get a lot of questions by email, Twitter DMs and Quora. This way anyone can read the answer!
 
